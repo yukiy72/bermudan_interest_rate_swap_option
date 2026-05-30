@@ -175,6 +175,7 @@ The code produces:
 - Exposure profile (EE / PFE)  
 - CVA estimate
 
+![image](./images/image.png)
 ---
 
 ## References
