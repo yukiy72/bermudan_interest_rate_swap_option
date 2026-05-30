@@ -180,6 +180,7 @@ The code produces:
 
 ## References
 
-1. Glasserman, P. (2003) *Monte Carlo Methods in Financial Engineering*. Springer, New York.
+1. F. A. Longstaﬀ and E. S. Schwartz. Valuing American Options by Simulation: A Simple Least-Squares Approach. *The Review of Financial Studies*, 14(1):113–147, 2001.
+2. Glasserman, P. (2003) *Monte Carlo Methods in Financial Engineering*. Springer, New York.
 
 ---
